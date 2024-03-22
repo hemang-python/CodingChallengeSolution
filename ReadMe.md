@@ -13,16 +13,16 @@ Below is a list of the current challenges available. Each challenge includes a d
 - [Document Text Extractor](Backend/Document%20Text%20Extractor/ReadMe.md): Build an application that extracts text from uploaded PDF documents and displays the content to the user.
 - [Query Engine](Backend/Query%20Engine/ReadMe.md): Develop a query engine that efficiently filters and returns data based on specified criteria.
 
+### Frontend
+
+- [Markdown Editor Application](Frontend/Markdown%20Editor%20App/Readme.md): Create a Markdown editor application using React, TypeScript, and the Lexical editor framework.
+
 ## How to Participate
 
 1. **Select a Challenge**: Browse the challenges and select one that interests you.
 2. **Fork the Repository**: Fork this repository to your own GitHub account to get started.
 3. **Solve the Challenge**: Follow the instructions in the challenge's README to develop your solution.
 4. **Submit Your Solution**: Place your completed solution in a new directory within the `submissions` folder, following the [submission guidelines](submissions/README.md).
-
-## Submission Guidelines
-
-For detailed instructions on how to submit your challenge solution, please refer to the [submissions directory README](submissions/README.md). It outlines how to structure your submission and the process for creating a pull request.
 
 ## Evaluation Criteria
 

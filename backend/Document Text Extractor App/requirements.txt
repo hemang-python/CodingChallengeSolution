@@ -2,3 +2,7 @@ fastapi
 streamlit
 pymupdf
 uvicorn
+requests
+python-multipart
+pdfminer.six
+httpx
